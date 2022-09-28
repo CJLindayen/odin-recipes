@@ -3,3 +3,34 @@
     height: auto;
     width: 500px;
 }
+
+#secret-list {
+    background-color: rgb(26, 26, 26);
+    color: white;
+}
+
+#secret-transition {
+    background-color: #7c7c7c;
+}
+
+.secret-word {
+    color: white;
+}
+
+.secret-recipe {
+    background-color: #5b3d6d;
+    color: white;
+}
+
+#index-bg {
+    background-color: white;
+}
+
+button {
+    background-color: white;
+    color: white;
+}
+
+body {
+    background-color: bisque;
+}
